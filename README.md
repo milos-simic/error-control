@@ -27,7 +27,7 @@ Packages:
 
 R Version: 4.3.1
 
-Packages
+Packages:
 
 | Package | Version |
 | ------- | ------- |
